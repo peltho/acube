@@ -17,9 +17,8 @@ acube
 	<dt>Auteurs</dt>
 </dl>
 
-[peltho][0]
-
-[nahLLL][1]
+* [peltho][0]
+* [nahLLL][1]
 
 [0]: https://github.com/peltho
 [1]: https://github.com/nahLLL
