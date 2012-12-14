@@ -12,3 +12,14 @@ acube
 * Configuration du serveur
 * Lancement d'un serveur et du jeu
 * Lancement du jeu
+
+<dl>
+	<dt>Auteurs</dt>
+</dl>
+
+[peltho][0]
+
+[nahLLL][1]
+
+[0]: https://github.com/peltho
+[1]: https://github.com/nahLLL
