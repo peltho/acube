@@ -7,8 +7,8 @@ acube
 
 <dl>
   <dt>Options</dt>
-  <dd>* Téléchargement du jeu et installation dans le répertoire de votre choix</dd>
-  <dd>* Configuration du serveur</dd>
-  <dd>* Lancement d'un serveur et du jeu</dd>
-  <dd>* Lancement du jeu</dd>
 </dl>
+* Téléchargement du jeu et installation dans le répertoire de votre choix
+* Configuration du serveur
+* Lancement d'un serveur et du jeu
+* Lancement du jeu
